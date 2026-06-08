@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Developer | Python Programmer | LLM Enthusiast | SaaS Builder
+AI Developer | Python Programmer | LLM Enthusiast | SaaS
 
 
 ## 🌐 Socials:
