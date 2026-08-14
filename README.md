@@ -1,172 +1,91 @@
-# 👋 Hey, I'm Rudra Pratap Singh
-
-### `AI Developer` · `Full-Stack Developer` · `LLM Enthusiast` · `SaaS Builder`
-
-I'm a developer who enjoys turning ideas into **real, usable software** — from AI-powered applications and LLM workflows to polished full-stack products and experimental developer tools.
-
-I’m currently focused on **Artificial Intelligence, Machine Learning, LLMs, full-stack development, and building products that actually solve problems.**
-
-> **Build → Break → Learn → Improve → Ship. 🚀**
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 BCA student & passionate software developer
-- 🤖 Exploring **AI, ML, LLMs & Generative AI**
-- 🧠 Interested in **LLM fine-tuning, AI agents & intelligent applications**
-- 💻 Building full-stack applications with modern web technologies
-- 🐍 Strong interest in **Python & AI development**
-- 🚀 Building SaaS and product-oriented projects
-- 🎨 I care about both **functionality and UI/UX**
-- 🌱 Constantly learning, experimenting and shipping
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
-</p>
-
-### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-**Exploring:**  
-`LLMs` · `Generative AI` · `RAG` · `AI Agents` · `Fine-Tuning` · `Prompt Engineering` · `Model Optimization`
-
-### Web & Full Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,typescript" />
-</p>
-
-### Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgresql,mongodb,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🖥️ MAC-OS Portfolio
-**A pixel-perfect macOS-inspired portfolio experience**
-
-A highly interactive portfolio designed around the macOS experience, combining desktop-style interactions with a modern developer portfolio.
-
-**Tech:** `TypeScript` · `React` · `Modern Web APIs`
-
----
-
-### 🧠 Talk to Your Notes
-
-**AI-powered document interaction**
-
-An application that allows users to interact with their notes and documents through an AI-powered conversational interface.
-
-**Tech:** `Python` · `AI` · `RAG` · `LLMs`
-
----
-
-### 🧾 Vaultly — AI Receipt Manager
-
-**Full-stack AI Receipt, Purchase & Warranty Management**
-
-A product-focused application designed to organize receipts, purchases and warranty information while using AI to make information easier to manage.
-
-**Tech:** `TypeScript` · `AI` · `Full Stack`
-
----
-
-### 🛍️ Velora — Quiet Luxury Platform
-
-**Premium e-commerce experience**
-
-A modern e-commerce platform inspired by the quiet-luxury aesthetic, combining premium UI design with a complete shopping experience.
-
-**Tech:** `JavaScript` · `Web Development` · `E-Commerce`
-
----
-
-### 💪 PRS Fitness
-
-A Python-based fitness application focused on providing a practical desktop experience.
-
-**Tech:** `Python`
-
----
-
-### 🧮 BMI Calculator
-
-A modern BMI calculator built with **Python + CustomTkinter**, featuring a desktop UI and interactive health visualization.
-
-**Tech:** `Python` · `CustomTkinter`
-
----
-
-## 🧠 What I'm Currently Exploring
-
-```text
-Artificial Intelligence
-        ↓
-Large Language Models
-        ↓
-RAG & AI Agents
-        ↓
-Fine-Tuning & Model Optimization
-        ↓
-Production AI Applications
-```
-
-I'm particularly interested in taking AI beyond simple chat interfaces and building systems that can **reason over data, automate workflows and solve real-world problems.**
-
----
-
-## 📈 GitHub Activity
+<h1 align="center">Hi there 👋, I'm Rudra Pratap Singh</h1>
+<h3 align="center">AI Developer · Full-Stack Developer · LLM Enthusiast · SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevRudrax&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRudrax&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://www.linkedin.com/in/rudra-pratap-singh-bb6b79324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/orbitrider"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/SKHBjgsmFy"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:r.p.singh7439@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💫 About Me
+
+- 🎓 Computer Science Engineering student, passionate about **AI, Machine Learning, and Systems**
+- 💻 Building AI-powered solutions, LLM fine-tuning pipelines, and scalable software
+- 🧠 Deep interest in **agentic AI, LLM applications, and intelligent automation**
+- 🚀 Focused on shipping real, working products — not just prototypes
+- 🌱 Always learning, always building
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & Web**
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Data & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Data Science Toolkit**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 🤖 AI / ML & LLM Interests
+
+I spend a lot of my time exploring how large language models can be turned into real, usable systems rather than just demos — things like LLM fine-tuning pipelines, intelligent agents, and AI-driven automation that plug into everyday workflows. I'm especially interested in the intersection of AI reasoning and practical software engineering: building tools that are genuinely useful, not just impressive.
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[bmi-calculator](https://github.com/DevRudrax/bmi-calculator)** | A modern BMI Calculator built with Python and CustomTkinter, featuring a sleek dark UI and interactive health visualization. |
+| **[calc.py](https://github.com/DevRudrax/calc.py)** | PS_DualMindCalculator — a Python-based calculator project. |
+| **[DevRudrax-prs-fitness](https://github.com/DevRudrax/DevRudrax-prs-fitness)** | A fitness-focused project, part of my ongoing build log. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevRudrax&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRudrax&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevRudrax&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=DevRudrax&theme=dark&hide_border=false" height="165" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/DevRudrax">
-    <img src="https://img.shields.io/badge/GitHub-DevRudrax-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/rudra-pratap-singh-bb6b79324/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rudra%20Pratap%20Singh-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mac-os-portfolio-devrudrax.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudra-pratap-singh-bb6b79324/">LinkedIn</a> ·
+  <a href="https://instagram.com/orbitrider">Instagram</a> ·
+  <a href="https://discord.gg/SKHBjgsmFy">Discord</a> ·
+  <a href="mailto:r.p.singh7439@gmail.com">Email</a>
 </p>
 
----
-
-## 💡 Philosophy
-
-> **"Don't just learn the technology. Build something with it."**
-
-Every project is an experiment, every bug is a lesson, and every shipped product is another step forward.
-
----
-
-### ⭐ If you find something interesting here, feel free to explore my repositories.
-
-**Thanks for stopping by! 👋**
+<p align="center"><i>🚀 Building AI-powered solutions, one commit at a time.</i></p>
