@@ -82,12 +82,12 @@ philosophy: "Ship clean. Ship fast. Ship it like it matters."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevRudrax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRudrax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevRudrax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&count_private=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRudrax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&cache_seconds=1800" width="35%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRudrax&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=DevRudrax&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%"/>
 
 </div>
 
