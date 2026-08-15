@@ -87,7 +87,7 @@ philosophy: "Ship clean. Ship fast. Ship it like it matters."
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=DevRudrax&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=DevRudrax&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%"/>
 
 </div>
 
