@@ -82,12 +82,21 @@ philosophy: "Ship clean. Ship fast. Ship it like it matters."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevRudrax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&count_private=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRudrax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&cache_seconds=1800" width="35%"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DevRudrax&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%"/>
+
+</div>
+
+<br/>
+
+## `>_` Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevRudrax/DevRudrax/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevRudrax/DevRudrax/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/DevRudrax/DevRudrax/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
